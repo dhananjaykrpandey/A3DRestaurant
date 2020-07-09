@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\A3DRestaurant.Data\A3DRestaurant.Data.csproj" />
+    <ProjectReference Include="..\A3DRestaurant.Repository\A3DRestaurant.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
